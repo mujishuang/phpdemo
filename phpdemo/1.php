@@ -7,5 +7,5 @@ PP;
 
 //nowdoc
 echo <<<'DD'
-mjs here 55, hello my name is {$name}
+changed 55, hello my name is {$name}
 DD;
